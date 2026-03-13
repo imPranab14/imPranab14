@@ -1,11 +1,22 @@
-# 👋 Hi, I’m Pranab (@imPranab14)
+<h1 align="center">Pranab Quila</h1>
+<h3 align="center">Full Stack Software Developer | React.js | Node.js | Microservices | Industrial IoT</h3>
 
-- 👀 I’m interested in web development, open-source projects, and building full-stack applications.
-- 🌱 I’m currently learning advanced React, Node.js, and cloud deployment with AWS.
-- 💞️ I want to collaborate on React-based projects, developer tools, or anything that solves real-world problems.
-- 📫 How to reach me: pranab.quila01@gmail.com
+<p align="center">
+Designing and building scalable full-stack applications, enterprise platforms, and data-driven dashboards.
+</p>
 
-<!---
-imPranab14/imPranab14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## About Me
+
+Full Stack Software Developer with **4+ years of experience** building scalable web applications, enterprise platforms, and RESTful APIs. Experienced in developing modern frontend interfaces with **React.js** and architecting robust backend services using **Node.js and Express.js**.
+
+Strong background in **microservices architecture, secure API design, and performance optimization**, with hands-on experience in **MSSQL, Redis, and event-driven systems**.
+
+Professionally experienced in developing **industrial IoT monitoring dashboards, enterprise reporting systems, and internal business platforms** used in real-world production environments.
+
+I focus on building **clean, maintainable, and production-ready systems** that improve operational efficiency and deliver reliable user experiences.
+
+📍 Kolkata, India  
+📧 Email: pranab.quila01@gmail.com  
+🌐 Portfolio: https://portfolio-xi-seven-80.vercel.app
