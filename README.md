@@ -16,7 +16,3 @@ Strong background in **microservices architecture, secure API design, and perfor
 Professionally experienced in developing **industrial IoT monitoring dashboards, enterprise reporting systems, and internal business platforms** used in real-world production environments.
 
 I focus on building **clean, maintainable, and production-ready systems** that improve operational efficiency and deliver reliable user experiences.
-
-📍 Kolkata, India  
-📧 Email: pranab.quila01@gmail.com  
-🌐 Portfolio: https://portfolio-xi-seven-80.vercel.app
